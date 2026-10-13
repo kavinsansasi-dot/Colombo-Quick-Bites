@@ -1,0 +1,11 @@
+{
+  "short_name": "Quick Bites",
+  "name": "Colombo Quick Bites",
+  "description": "Modern food ordering system for Colombo Quick Bites",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F97316",
+  "icons": []
+}
